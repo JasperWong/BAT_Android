@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <activity.ThrottleView
+                android:id="@+id/left_throttle_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.4" />
+            <!--android:layout_margin="20dp"-->
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="PROJECT-X"-->
+            <!--android:gravity="center"-->
+            <!--android:textSize="30dp"-->
+            <!--android:textColor="@color/white"/>-->
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_centerInParent="true"
+                android:src="@drawable/bat_icon"
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <activity.ThrottleView
+                android:id="@+id/right_throttle_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.4" />
+            <!--android:layout_margin="20dp"-->
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="PROJECT-X"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\flight x\AndroidForBat\bat_android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_8e285695e93e3582a2590cba99fff49cf00c0d36\classes.dex" />
+    </item>
+    <item
+        jar="F:\flight x\AndroidForBat\bat_android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="60e5318a01089ec322b7888a2489b7ec399214ef">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_86a8edef26f00201a80102925d68f74a61f6e3ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.0_942a00eae9e94bbf9436a50907fead2fcde562a3\classes.dex" />
+    </item>
+    <item
+        jar="F:\flight x\AndroidForBat\bat_android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.0_491ef31f45b1d318763f8eaf2883af375feb6345\classes.dex" />
+    </item>
+    <item
+        jar="F:\flight x\AndroidForBat\bat_android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="2f9253b351fc61c0e2300809d2f5d14bf9ad4459">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8d85ae61e0db0ff89aa823423a8a113f6d679a8c\classes.dex" />
+    </item>
+    <item
+        jar="F:\flight x\AndroidForBat\bat_android\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0 rc3"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="F:\flight x\AndroidForBat\bat_android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.0_2d6fbfb639bf32607fe866fc40c332f3dc1b36f7\classes.dex" />
+    </item>
+
+</items>

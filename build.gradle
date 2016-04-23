@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '23.0.0 rc3'
+    defaultConfig {
+        applicationId "net.londatiga.android.bluetooth"
+        minSdkVersion 18
+        targetSdkVersion 19
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+buildscript {
+
+    repositories {
+
+        mavenCentral()
+
+    }
+
+    dependencies {
+
+        classpath 'com.android.tools.build:gradle:2.0.0'
+
+    }
+
+}
+
+
+dependencies {
+    //compile 'com.android.support:support-v4:18.+'
+    compile 'com.android.support:appcompat-v7:21.0.0'
+    compile 'com.android.support:support-v4:21.0.0'
+}

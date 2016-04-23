@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\launcher.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\ball.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\ball.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\table.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\table.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\batman_logo.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\batman_logo.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\search3.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\search3.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\connect2.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\connect2.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\bat_logo_main.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\bat_logo_main.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\fan_mode.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\fan_mode.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\connect.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\connect.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\bat_mode.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\bat_mode.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\bat_icon.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\bat_icon.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\car_mode.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\car_mode.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_normal.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\thumb_normal.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\take_photo.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\bat.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\bat.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\control_back.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\control_back.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_selector.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\touch_selector.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\debug_mode.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\debug_mode.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_background.jpg",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\blue_background.jpg"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_pressed.png",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\src\\main\\res\\drawable\\thumb_pressed.png"
+    },
+    {
+        "merged": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\flight x\\AndroidForBat\\bat_android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]

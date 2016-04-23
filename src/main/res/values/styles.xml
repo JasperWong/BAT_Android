@@ -1,0 +1,55 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+
+    <style name="my_actionbar_style" parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@color/bat_android_blue</item>
+    <item name="android:titleTextStyle">@color/white</item>
+    </style>
+
+
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- API 14 theme customizations can go here. -->
+        <item name="android:actionBarStyle">@style/my_actionbar_style</item>
+    </style>
+
+
+
+
+    <!-- this theme show logo -->
+    <style name="ForecastTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.Solid.BatAndroid.NoTitle</item>
+    </style>
+
+    <style name="ActionBar.Solid.BatAndroid" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <item name="background">@color/bat_android_blue</item>
+    </style>
+
+    <style name="ActionBar.Solid.BatAndroid.NoTitle" parent="@style/ActionBar.Solid.BatAndroid">
+        <item name="android:displayOptions">useLogo|showHome</item>
+        <item name="android:logo">@drawable/batman_logo</item>
+    </style>
+
+    <!-- Style for forecast listview -->
+    <style name="ForecastListStyle">
+        <!-- Here it's a stub.  In screens of sufficient width, this style includes modifications
+        for two-pane layout -->
+    </style>
+
+
+
+</resources>
